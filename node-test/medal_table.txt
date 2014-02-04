@@ -1,0 +1,221 @@
+<table class="wikitable">
+<tr>
+<th scope="col" style="width: auto;" class="col_0">Rank</th>
+<th scope="col" style="width: auto;" class="col_1">Nation</th>
+<th scope="col" style="background-color: gold; width: auto;" class="col_2">Gold</th>
+<th scope="col" style="background-color: silver; width: auto;" class="col_3">Silver</th>
+<th scope="col" style="background-color: #cc9966; width: auto;" class="col_4">Bronze</th>
+<th scope="col" style="width: auto;" class="col_5">Total</th>
+</tr>
+<tr>
+<td>1</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/33px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/44px-Flag_of_Canada.svg.png 2x">&#160;<a href="/wiki/Canada_at_the_2010_Winter_Olympics" title="Canada at the 2010 Winter Olympics" class="hidden">Canada</a>&#160;<span style="font-size:90%;">(CAN)</span>*</td>
+<td>14</td>
+<td>7</td>
+<td>5</td>
+<td>26</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x">&#160;<a href="/wiki/Germany_at_the_2010_Winter_Olympics" title="Germany at the 2010 Winter Olympics" class="hidden">Germany</a>&#160;<span style="font-size:90%;">(GER)</span></td>
+<td>10</td>
+<td>13</td>
+<td>7</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x">&#160;<a href="/wiki/United_States_at_the_2010_Winter_Olympics" title="United States at the 2010 Winter Olympics" class="hidden">United States</a>&#160;<span style="font-size:90%;">(USA)</span></td>
+<td>9</td>
+<td>15</td>
+<td>13</td>
+<td>37</td>
+</tr>
+<tr>
+<td>4</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/22px-Flag_of_Norway.svg.png" width="22" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/33px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/44px-Flag_of_Norway.svg.png 2x">&#160;<a href="/wiki/Norway_at_the_2010_Winter_Olympics" title="Norway at the 2010 Winter Olympics" class="hidden">Norway</a>&#160;<span style="font-size:90%;">(NOR)</span></td>
+<td>9</td>
+<td>8</td>
+<td>6</td>
+<td>23</td>
+</tr>
+<tr>
+<td>5</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/33px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/44px-Flag_of_South_Korea.svg.png 2x">&#160;<a href="/wiki/South_Korea_at_the_2010_Winter_Olympics" title="South Korea at the 2010 Winter Olympics" class="hidden">South Korea</a>&#160;<span style="font-size:90%;">(KOR)</span></td>
+<td>6</td>
+<td>6</td>
+<td>2</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" width="20" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 2x">&#160;<a href="/wiki/Switzerland_at_the_2010_Winter_Olympics" title="Switzerland at the 2010 Winter Olympics" class="hidden">Switzerland</a>&#160;<span style="font-size:90%;">(SUI)</span></td>
+<td>6</td>
+<td>0</td>
+<td>3</td>
+<td>9</td>
+</tr>
+<tr>
+<td rowspan="2">7</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x">&#160;<a href="/wiki/China_at_the_2010_Winter_Olympics" title="China at the 2010 Winter Olympics" class="hidden">China</a>&#160;<span style="font-size:90%;">(CHN)</span></td>
+<td>5</td>
+<td>2</td>
+<td>4</td>
+<td>11</td>
+</tr>
+<tr>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/22px-Flag_of_Sweden.svg.png" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/33px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/44px-Flag_of_Sweden.svg.png 2x">&#160;<a href="/wiki/Sweden_at_the_2010_Winter_Olympics" title="Sweden at the 2010 Winter Olympics" class="hidden">Sweden</a>&#160;<span style="font-size:90%;">(SWE)</span></td>
+<td>5</td>
+<td>2</td>
+<td>4</td>
+<td>11</td>
+</tr>
+<tr>
+<td>9</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/22px-Flag_of_Austria.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/33px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/44px-Flag_of_Austria.svg.png 2x">&#160;<a href="/wiki/Austria_at_the_2010_Winter_Olympics" title="Austria at the 2010 Winter Olympics" class="hidden">Austria</a>&#160;<span style="font-size:90%;">(AUT)</span></td>
+<td>4</td>
+<td>6</td>
+<td>6</td>
+<td>16</td>
+</tr>
+<tr>
+<td>10</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x">&#160;<a href="/wiki/Netherlands_at_the_2010_Winter_Olympics" title="Netherlands at the 2010 Winter Olympics" class="hidden">Netherlands</a>&#160;<span style="font-size:90%;">(NED)</span></td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+<td>8</td>
+</tr>
+<tr>
+<td>11</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x">&#160;<a href="/wiki/Russia_at_the_2010_Winter_Olympics" title="Russia at the 2010 Winter Olympics" class="hidden">Russia</a>&#160;<span style="font-size:90%;">(RUS)</span></td>
+<td>3</td>
+<td>5</td>
+<td>7</td>
+<td>15</td>
+</tr>
+<tr>
+<td>12</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x">&#160;<a href="/wiki/France_at_the_2010_Winter_Olympics" title="France at the 2010 Winter Olympics" class="hidden">France</a>&#160;<span style="font-size:90%;">(FRA)</span></td>
+<td>2</td>
+<td>3</td>
+<td>6</td>
+<td>11</td>
+</tr>
+<tr>
+<td>13</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/33px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/44px-Flag_of_Australia.svg.png 2x">&#160;<a href="/wiki/Australia_at_the_2010_Winter_Olympics" title="Australia at the 2010 Winter Olympics" class="hidden">Australia</a>&#160;<span style="font-size:90%;">(AUS)</span></td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>14</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/33px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/44px-Flag_of_the_Czech_Republic.svg.png 2x">&#160;<a href="/wiki/Czech_Republic_at_the_2010_Winter_Olympics" title="Czech Republic at the 2010 Winter Olympics" class="hidden">Czech Republic</a>&#160;<span style="font-size:90%;">(CZE)</span></td>
+<td>2</td>
+<td>0</td>
+<td>4</td>
+<td>6</td>
+</tr>
+<tr>
+<td>15</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/33px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/44px-Flag_of_Poland.svg.png 2x">&#160;<a href="/wiki/Poland_at_the_2010_Winter_Olympics" title="Poland at the 2010 Winter Olympics" class="hidden">Poland</a>&#160;<span style="font-size:90%;">(POL)</span></td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>6</td>
+</tr>
+<tr>
+<td>16</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/22px-Flag_of_Italy.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/33px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/44px-Flag_of_Italy.svg.png 2x">&#160;<a href="/wiki/Italy_at_the_2010_Winter_Olympics" title="Italy at the 2010 Winter Olympics" class="hidden">Italy</a>&#160;<span style="font-size:90%;">(ITA)</span></td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td rowspan="2">17</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Belarus_%281995-2012%29.svg/22px-Flag_of_Belarus_%281995-2012%29.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Belarus_%281995-2012%29.svg/33px-Flag_of_Belarus_%281995-2012%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Belarus_%281995-2012%29.svg/44px-Flag_of_Belarus_%281995-2012%29.svg.png 2x">&#160;<a href="/wiki/Belarus_at_the_2010_Winter_Olympics" title="Belarus at the 2010 Winter Olympics" class="hidden">Belarus</a>&#160;<span style="font-size:90%;">(BLR)</span></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/22px-Flag_of_Slovakia.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/33px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/44px-Flag_of_Slovakia.svg.png 2x">&#160;<a href="/wiki/Slovakia_at_the_2010_Winter_Olympics" title="Slovakia at the 2010 Winter Olympics" class="hidden">Slovakia</a>&#160;<span style="font-size:90%;">(SVK)</span></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>19</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x">&#160;<a href="/wiki/Great_Britain_at_the_2010_Winter_Olympics" title="Great Britain at the 2010 Winter Olympics" class="hidden">Great Britain</a>&#160;<span style="font-size:90%;">(GBR)</span></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/33px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/44px-Flag_of_Japan.svg.png 2x">&#160;<a href="/wiki/Japan_at_the_2010_Winter_Olympics" title="Japan at the 2010 Winter Olympics" class="hidden">Japan</a>&#160;<span style="font-size:90%;">(JPN)</span></td>
+<td>0</td>
+<td>3</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td rowspan="2">21</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/22px-Flag_of_Croatia.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/33px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/44px-Flag_of_Croatia.svg.png 2x">&#160;<a href="/wiki/Croatia_at_the_2010_Winter_Olympics" title="Croatia at the 2010 Winter Olympics" class="hidden">Croatia</a>&#160;<span style="font-size:90%;">(CRO)</span></td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/22px-Flag_of_Slovenia.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/33px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/44px-Flag_of_Slovenia.svg.png 2x">&#160;<a href="/wiki/Slovenia_at_the_2010_Winter_Olympics" title="Slovenia at the 2010 Winter Olympics" class="hidden">Slovenia</a>&#160;<span style="font-size:90%;">(SLO)</span></td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>23</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/22px-Flag_of_Latvia.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/33px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/44px-Flag_of_Latvia.svg.png 2x">&#160;<a href="/wiki/Latvia_at_the_2010_Winter_Olympics" title="Latvia at the 2010 Winter Olympics" class="hidden">Latvia</a>&#160;<span style="font-size:90%;">(LAT)</span></td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>24</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/22px-Flag_of_Finland.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/33px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/44px-Flag_of_Finland.svg.png 2x">&#160;<a href="/wiki/Finland_at_the_2010_Winter_Olympics" title="Finland at the 2010 Winter Olympics" class="hidden">Finland</a>&#160;<span style="font-size:90%;">(FIN)</span></td>
+<td>0</td>
+<td>1</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td rowspan="2">25</td>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/22px-Flag_of_Estonia.svg.png" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/33px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/44px-Flag_of_Estonia.svg.png 2x">&#160;<a href="/wiki/Estonia_at_the_2010_Winter_Olympics" title="Estonia at the 2010 Winter Olympics" class="hidden">Estonia</a>&#160;<span style="font-size:90%;">(EST)</span></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/22px-Flag_of_Kazakhstan.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/33px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/44px-Flag_of_Kazakhstan.svg.png 2x">&#160;<a href="/wiki/Kazakhstan_at_the_2010_Winter_Olympics" title="Kazakhstan at the 2010 Winter Olympics" class="hidden">Kazakhstan</a>&#160;<span style="font-size:90%;">(KAZ)</span></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr class="sortbottom">
+<th colspan="2" style="width: auto;" class="col_6">Total (26 NOCs)</th>
+<th style="width: auto;" class="col_7">86</th>
+<th style="width: auto;" class="col_8">87</th>
+<th style="width: auto;" class="col_9">85</th>
+<th style="width: auto;" class="col_10">258</th>
+</tr>
+</table>
