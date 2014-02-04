@@ -94,5 +94,9 @@ body {
 
 
 #tally_content {
+    font-size: 11px;
     margin: 3em 0 1em;
+    td a {
+        display: none;
+    }
 }

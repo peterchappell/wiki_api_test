@@ -17,6 +17,8 @@ $(document).ready(function() {
       }
     });
 
+    $('th', $medalTable).css('width', 'auto');
+
     $content.html($medalTable);
   });
 
